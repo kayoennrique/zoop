@@ -1,5 +1,3 @@
-![Zoop Megastore](thumb.png)
-
 # Zoop Megastore
 
 Zoop is a retail e-commerce that sells everything! Currently in the development phase, your website lacks resources that make it accessible to everyone who accesses and browses it.
