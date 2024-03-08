@@ -1,0 +1,23 @@
+.section__hero {
+  width: 100%;
+  height: 904px;
+  display: flex;
+  align-items: center;
+  background-color: var(--blue-primary);
+}
+
+.section__hero--content {
+  display: flex;
+  justify-content: baseline;
+  align-items: center;
+  width: 100%;
+  height: 696px;
+  gap: 100px;
+}
+
+.section__hero--informations {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2.5rem;
+}

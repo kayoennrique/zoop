@@ -1,0 +1,56 @@
+.footer__content {
+  width: 100%;
+  background-color: var(--blue-primary);
+}
+
+.footer__information {
+  display: flex;
+  padding: 60px 240px;
+  align-items: start;
+  justify-content: space-between;
+}
+
+.footer__logo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1.5rem;
+  color: var(--gray-primary);
+  font-weight: 700;
+  width: 25%;
+}
+
+.footer__institutional {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.footer__institutional--links,
+.footer__service,
+.footer__social-networks {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+.footer__social-networks--icons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.footer__copy {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 24px 240px;
+  color: var(--gray-primary);
+  background-color: var(--graphite);
+  text-align: center;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+}

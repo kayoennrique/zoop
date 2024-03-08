@@ -1,0 +1,9 @@
+.section__doubts {
+  display: flex;
+  padding: 120px 240px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  align-self: stretch;
+}

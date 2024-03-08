@@ -1,0 +1,22 @@
+.select__group {
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--magenta-primary);
+  color: var(--magenta-primary);
+  font-size: 1.375rem;
+  font-style: normal;
+  font-weight: 700;
+  outline: none;
+  cursor: pointer;
+}
+
+.select__group:focus {
+  border: 2px solid var(--magenta-hover);
+}
+
+.select__option {
+  color: var(--graphite);
+  font-size: 1.375rem;
+  font-style: normal;
+  font-weight: 400;
+}

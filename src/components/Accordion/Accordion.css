@@ -1,0 +1,25 @@
+.accordion__container {
+  width: 955px;
+  display: flex;
+  flex-direction: column;
+}
+
+.accordion__content {
+  margin-bottom: 1rem;
+}
+
+.accordion__title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-self: stretch;
+  cursor: pointer;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: var(--blue-primary);
+}
+
+.accordion__descriptiion {
+  padding: 1rem;
+  background-color: var(--blue-light);
+}

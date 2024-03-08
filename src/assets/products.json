@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Notebook Samsung",
+    "description": "NP550XDA-KU1BR Intel Core i7-1165G7 8GB 256GB SSD Tela 15,\" Windows 11 - Cinza Chumbo",
+    "amount": 2800,
+    "src": "notebook.png",
+    "altImg": "Notebook prata aberto"
+  },
+  {
+    "id": 2,
+    "name": "Fone Headset Gamer Scylla",
+    "description": "Headset gamer redragon scylla lunar white h901w",
+    "amount": 135,
+    "src": "headset.png",
+    "altImg": "Fone gamer na cor branca"
+  },
+  {
+    "id": 3,
+    "name": "Kit Teclado Gamer ",
+    "description": "Kit gamer teclado mecânico E mouse com LED rgb ideal para jogos online.",
+    "amount": 120,
+    "src": "teclado.png",
+    "altImg": "Teclado gamer na cor branca com luzes rgb"
+  },
+  {
+    "id": 4,
+    "name": "Ventilador de Mesa Mondial",
+    "description": "Com 30 cm e 3 velocidades, o Ventilador Super Power VSP-30-W é mais vento.",
+    "amount": 129,
+    "src": "ventilador.png",
+    "altImg": "Ventilador na cor branca com hélice na cor azul"
+  }
+]

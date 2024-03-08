@@ -1,0 +1,12 @@
+.field__search {
+  display: flex;
+  width: 37.5rem;
+  align-items: center;
+  border-radius: 0.5rem;
+}
+
+.field__search:focus {
+  outline: none;
+  border: 2px solid;
+  border-color: var(--blue-primary);
+}
