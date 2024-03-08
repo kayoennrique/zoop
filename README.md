@@ -55,7 +55,7 @@ npm install
 npm run dev
 ```
 
-## 📚 More course information
+## 📚 More project information
 
 Did you like the project and want to know more?
 
